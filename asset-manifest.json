@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/newyear-project/static/css/main.e881eac3.css",
-    "main.js": "/newyear-project/static/js/main.22af8fb3.js",
-    "static/js/787.0d872712.chunk.js": "/newyear-project/static/js/787.0d872712.chunk.js",
-    "index.html": "/newyear-project/index.html",
-    "main.e881eac3.css.map": "/newyear-project/static/css/main.e881eac3.css.map",
-    "main.22af8fb3.js.map": "/newyear-project/static/js/main.22af8fb3.js.map",
-    "787.0d872712.chunk.js.map": "/newyear-project/static/js/787.0d872712.chunk.js.map"
+    "main.css": "/Ultah-Gw/static/css/main.e881eac3.css",
+    "main.js": "/Ultah-Gw/static/js/main.0817319d.js",
+    "static/js/787.0d872712.chunk.js": "/Ultah-Gw/static/js/787.0d872712.chunk.js",
+    "index.html": "/Ultah-Gw/index.html",
+    "main.e881eac3.css.map": "/Ultah-Gw/static/css/main.e881eac3.css.map",
+    "main.0817319d.js.map": "/Ultah-Gw/static/js/main.0817319d.js.map",
+    "787.0d872712.chunk.js.map": "/Ultah-Gw/static/js/787.0d872712.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e881eac3.css",
-    "static/js/main.22af8fb3.js"
+    "static/js/main.0817319d.js"
   ]
 }
